@@ -1,0 +1,16 @@
+{
+  "name": "@tur-nr/daily-defi",
+  "version": "1.0.0",
+  "description": "Various",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/node": "^16.4.13",
+    "prettier": "^2.3.2"
+  }
+}
