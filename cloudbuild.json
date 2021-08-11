@@ -9,8 +9,9 @@
         "daily-defi",
         "--runtime=nodejs14",
         "--region=asia-northeast1",
-        "--source=.",
-        "--trigger-topic=pwings-report"
+        "--trigger-topic=pwings-report",
+        "--entry-point=demo",
+        "--source=."
       ]
     }
   ],
