@@ -12,5 +12,8 @@
         "--trigger-topic=pwings-report"
       ]
     }
-  ]
+  ],
+  "options": {
+    "logging": "CLOUD_LOGGING_ONLY"
+  }
 }
